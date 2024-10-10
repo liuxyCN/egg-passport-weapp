@@ -59,11 +59,8 @@
   },
   "files": [
     "config",
-    "app.ts",
     "app.js",
-    "index.d.ts",
-    "tsconfig.json",
-    "tslint.json"
+    "index.d.ts"
   ],
   "ci": {
     "version": "8, 9"
